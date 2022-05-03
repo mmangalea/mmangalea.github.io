@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mihnea R. Mangalea, Ph.D. / Scientist"
+title                    : "Mihnea R. Mangalea, Ph.D."
 title_separator          : "-"
 name                     : &name "Mike Mangalea"
 description              : &description "Human | Scientist | Microbiologist | Bioinformatician"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Mike Mangalea"
   avatar           : "IMG_1022.jpeg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Remote"
+  bio              : "Human | Scientist | Microbiologist | Bioinformatician"
+  location         : "Auburn, AL"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=mangalea+mr"
   googlescholar    : "https://scholar.google.com/citations?user=-x4aaEMAAAAJ&hl=en"
