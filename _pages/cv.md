@@ -11,22 +11,40 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
+* Ph.D in Microbiology, Colorado State University, 2019
+* M.S. in Microbiology, Colorado State University, 2015
+* B.A. in Biology, University of North Carolina at Chapel Hill, 2010
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021 - current : Bioinformatician III
+  * Goldbelt C6, LLC contractor for CDC
+  * Division of Healthcare Quality Promotion
+  * Clinical and Environmental Microbiology Branch
+  * Officie of Scientific Innovation and Integration
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019 - 2021: Postdoctoral Fellow
+  * University of Colorado Anschutz Medical Campus
+  * Department of Immunology & Microbiology
+  * Laboratory of Breck Duerkop, Ph.D.
+
+* 2014 - 2019: Graduate Research Assistant
+  * Colorado State University
+  * Department of Microbiolgy, Immunology, and Pathology
+  * Laboratory of Brad Borlee, Ph.D.
   
+* 2012 - 2014: Research Technician
+  * University of North Carolina at Chapel Hill
+  * Department of Microbiology and Immunology
+  * Laboratory of Rita Tamayo, Ph.D.
+
+* 2006 - 2010: Undergraduate Research
+  * University of North Carolina at Chapel Hill
+  * Department of Biology
+  * Laboratory of Sabrina Burmeister, Ph.D.
+
 Skills
 ======
 * Skill 1
@@ -56,4 +74,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 2014 - current: American Society for Microbiology member
+* 2015 - 2019: CSU MIP Graduate Student Organization
