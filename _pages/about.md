@@ -8,11 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-About Me (under construction)
+About Me
+======
+Coming soon.
 
 Research Interests
 ======
-Microbial ecology
-Bioinformatics
-Viral metagenomics
-Bacterial physiology
+
+* Microbial ecology
+* Bioinformatics
+* Viral metagenomics
+* Bacterial physiology
